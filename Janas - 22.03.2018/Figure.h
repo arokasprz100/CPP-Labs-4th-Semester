@@ -8,7 +8,6 @@ class Area
 {
 public:
 	virtual double area() const = 0;
-	virtual ~Area() {};
 };
 
 /// Class that storesa info about figure
