@@ -12,7 +12,7 @@ During each laboratory classes, we can receive 10 points:
  - 3 points for output and memory management (if output does not match the one given in main file or there is a memory leak, we receive no points at all for this part)
  - 4 points for code quality 
  
-Lab descriptions are mainly in polish. Solutions are in polish or in english, depending on language code in main function had been prepared in. Laboratories in pairs were written with Paweł Kępka. 
+Lab descriptions are mainly in polish. Solutions are in polish or in english, depending on language code in main function had been prepared in. Laboratories in pairs were written with Paweł Kępka and Dawid Kobak.
  
 Please note that my solution should not be used as a form of cheating during your classes. 
 
